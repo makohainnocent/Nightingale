@@ -1,0 +1,11 @@
+C:\Users\vanta\source\repos\Nightingale\bin\Debug\Nightingale.exe.config
+C:\Users\vanta\source\repos\Nightingale\bin\Debug\Nightingale.exe
+C:\Users\vanta\source\repos\Nightingale\bin\Debug\Nightingale.pdb
+C:\Users\vanta\source\repos\Nightingale\obj\Debug\Nightingale.csproj.AssemblyReference.cache
+C:\Users\vanta\source\repos\Nightingale\obj\Debug\Nightingale.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanta\source\repos\Nightingale\obj\Debug\Nightingale.Form1.resources
+C:\Users\vanta\source\repos\Nightingale\obj\Debug\Nightingale.Properties.Resources.resources
+C:\Users\vanta\source\repos\Nightingale\obj\Debug\Nightingale.csproj.GenerateResource.cache
+C:\Users\vanta\source\repos\Nightingale\obj\Debug\Nightingale.csproj.CoreCompileInputs.cache
+C:\Users\vanta\source\repos\Nightingale\obj\Debug\Nightingale.exe
+C:\Users\vanta\source\repos\Nightingale\obj\Debug\Nightingale.pdb
